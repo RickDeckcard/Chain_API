@@ -1,6 +1,22 @@
 # Chain_API
 Script en LINUX BASH para buscar direcciones de criptoactivos sancionadas. Usando la API de Chainalysis
 
+  .oooooo.   oooo                   o8o                                         o8o  
+ d8P'  `Y8b  `888                   `"'                                         `"'  
+888           888 .oo.    .oooo.   oooo  ooo. .oo.         .oooo.   oo.ooooo.  oooo  
+888           888P"Y88b  `P  )88b  `888  `888P"Y88b       `P  )88b   888' `88b `888  
+888           888   888   .oP"888   888   888   888        .oP"888   888   888  888  
+`88b    ooo   888   888  d8(  888   888   888   888       d8(  888   888   888  888  
+ `Y8bood8P'  o888o o888o `Y888""8o o888o o888o o888o      `Y888""8o  888bod8P' o888o 
+                                                                     888             
+                                                                    o888o            
+                                                                                     
+                                                             
+LICENCIA
+--------
+Este script es totalmente gratuito. Ten en cuenta que no ha sido testado. Tienes el fichero txt adjunto para comprobar que te funciona perfectamente. No me hago responsable de fallos en otro sistemas operativos porque como he dicho no ha sido testado. En Kali Linux me funciona correctamte en la versión 5.15.0-kali3-amd64 #1 Debian 5.15.15-2kali1 (2022-01-31) x86_64 GNU/Linux.
+
+
 PRESENTACIÓN
 ------------
 
